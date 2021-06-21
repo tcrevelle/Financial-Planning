@@ -1,2 +1,2 @@
-# financial-planning
+# Financial-Planning
 API Homework
